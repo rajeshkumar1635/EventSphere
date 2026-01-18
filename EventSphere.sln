@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSphere.AuthService", "EventSphere.AuthService\EventSphere.AuthService.csproj", "{93194A90-1FEE-4389-8BBB-947FCC4C885E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93194A90-1FEE-4389-8BBB-947FCC4C885E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93194A90-1FEE-4389-8BBB-947FCC4C885E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93194A90-1FEE-4389-8BBB-947FCC4C885E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93194A90-1FEE-4389-8BBB-947FCC4C885E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD7C569C-F00A-4206-B28C-17D9D28A8A95}
+	EndGlobalSection
+EndGlobal
